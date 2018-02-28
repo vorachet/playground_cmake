@@ -1,0 +1,3 @@
+/Users/vorachet/git/playground_cmake/01/build/CMakeFiles/rebuild_cache.dir
+/Users/vorachet/git/playground_cmake/01/build/CMakeFiles/edit_cache.dir
+/Users/vorachet/git/playground_cmake/01/build/CMakeFiles/hello.dir
