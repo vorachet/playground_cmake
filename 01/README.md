@@ -1,4 +1,5 @@
 ```
+Making a new directory (build) for storing CMake generated files is useful when we want to delete all files in the build environment.
 
 $ mkdir build 
 $ cd build
